@@ -66,7 +66,8 @@ class MineSweeper {
     public void playGame() {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Mayın Tarlası Oyuna Hoşgeldiniz !");
+        System.out.println("Mayın Tarlası Oyunun
+a Hoşgeldiniz !");
 
         while (true) {
             printGameField();
