@@ -19,3 +19,4 @@ This project includes a simple text-based MineSweeper game written in Java.
 - If you select a cell with a mine, you lose the game.
 
 Enjoy the MineSweeper game with these simple rules!
+This is the final project of the "Kodluyoruz & Micorosft Back-End Web Development(Java)" course.
