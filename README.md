@@ -18,5 +18,4 @@ This project includes a simple text-based MineSweeper game written in Java.
 - Select one cell at a time and check if there is a mine in that cell.
 - If you select a cell with a mine, you lose the game.
 
-Enjoy the MineSweeper game with these simple rules!
-This is the final project of the "Kodluyoruz & Micorosft Back-End Web Development(Java)" course.
+This is the final project of the "Kodluyoruz & Microsoft Back-End Web Development(Java)" course.
